@@ -1,0 +1,11 @@
+# files to ignore in typical Joomla installation
+# also with some exclusions useful for SublimeText editor
+*~
+configuration.php
+tags
+.tags*
+logs/
+hkca.us/
+hollywoodlandscape*
+.htaccess
+extonbeverage/
